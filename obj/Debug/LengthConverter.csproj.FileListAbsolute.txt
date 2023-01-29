@@ -1,0 +1,8 @@
+C:\Users\spark\source\repos\LengthConverter\bin\Debug\LengthConverter.exe.config
+C:\Users\spark\source\repos\LengthConverter\bin\Debug\LengthConverter.exe
+C:\Users\spark\source\repos\LengthConverter\bin\Debug\LengthConverter.pdb
+C:\Users\spark\source\repos\LengthConverter\obj\Debug\LengthConverter.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\LengthConverter\obj\Debug\LengthConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\spark\source\repos\LengthConverter\obj\Debug\LengthConverter.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\LengthConverter\obj\Debug\LengthConverter.exe
+C:\Users\spark\source\repos\LengthConverter\obj\Debug\LengthConverter.pdb
